@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: 7fda4580ad6562e4cb58ba1775126a8d
+timeCreated: 1476701475
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_2
+    21300002: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_4
+    21300004: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_5
+    21300006: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_6
+    21300008: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_7
+    21300010: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_8
+    21300012: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_16
+    21300014: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_17
+    21300016: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_18
+    21300018: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_19
+    21300020: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_20
+    21300022: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_21
+    21300024: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_22
+    21300026: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_23
+    21300028: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_24
+    21300030: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_25
+    21300032: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_32
+    21300034: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_41
+    21300036: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_84
+    21300038: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_85
+    21300040: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_86
+    21300042: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_87
+    21300044: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_88
+    21300046: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_89
+    21300048: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_90
+    21300050: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_91
+    21300052: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_92
+    21300054: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_93
+    21300056: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_94
+    21300058: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_95
+    21300060: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_96
+    21300062: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_97
+    21300064: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_98
+    21300066: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_102
+    21300068: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_103
+    21300070: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_104
+    21300072: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_105
+    21300074: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_106
+    21300076: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_107
+    21300078: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_108
+    21300080: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_109
+    21300082: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_110
+    21300084: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_111
+    21300086: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_0
+    21300088: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_1
+    21300090: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_3
+    21300092: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_9
+    21300094: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_10
+    21300096: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_11
+    21300098: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_12
+    21300100: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_13
+    21300102: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_14
+    21300104: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 240
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 240
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 240
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 240
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 241
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 195
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 196
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 196
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 196
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 196
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 196
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 196
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 196
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 196
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 59
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 64
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 59
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 64
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 59
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 61
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_90
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 65
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 62
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 60
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 61
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_94
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 64
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_95
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 64
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 133
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 133
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_98
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 133
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_104
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 10
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 7
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_106
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_107
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_108
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 5
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_109
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 5
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_110
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 60
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_111
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 60
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 133
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 133
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 134
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 134
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 134
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_12
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 134
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 134
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 134
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rx_sprites_upgrade_2___revolcane_attack_by_rokurocarisu-d3ea0xi_15
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 134
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
