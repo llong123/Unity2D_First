@@ -1,30 +1,30 @@
 fileFormatVersion: 2
-guid: fc0af0a912872d44f96c36c58d7d50ba
-timeCreated: 1476639807
+guid: b07efcbb7850d3c40a2ea848a30127cb
+timeCreated: 1477041751
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: idle1
-    21300002: idle2
-    21300004: idle3
-    21300006: idle4
-    21300008: run1
-    21300010: run2
-    21300012: run3
-    21300014: run4
-    21300016: run5
-    21300018: run6
-    21300020: run7
-    21300022: run8
-    21300024: jump1
-    21300026: jump2
-    21300028: jump3
-    21300030: jump4
-    21300032: jump5
-    21300034: jump6
-    21300036: jump7
-    21300038: jump8
-    21300040: jump9
+    21300000: lucas1_0
+    21300002: lucas1_1
+    21300004: lucas1_2
+    21300006: lucas1_3
+    21300008: lucas1_4
+    21300010: lucas1_5
+    21300012: lucas1_6
+    21300014: lucas1_7
+    21300016: lucas1_8
+    21300018: lucas1_9
+    21300020: lucas1_10
+    21300022: lucas1_11
+    21300024: lucas1_12
+    21300026: lucas1_13
+    21300028: lucas1_14
+    21300030: lucas1_15
+    21300032: lucas1_16
+    21300034: lucas1_17
+    21300036: lucas1_18
+    21300038: lucas1_19
+    21300040: lucas1_20
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -47,8 +47,8 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 2048
+  textureFormat: -3
+  maxTextureSize: 512
   textureSettings:
     filterMode: 2
     aniso: 16
@@ -69,69 +69,64 @@ TextureImporter:
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: Standalone
-    maxTextureSize: 512
-    textureFormat: -3
-    compressionQuality: 50
-    allowsAlphaSplitting: 0
+  buildTargetSettings: []
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idle1
+      name: lucas1_0
       rect:
         serializedVersion: 2
         x: 8
         y: 96
         width: 24
         height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: idle2
+      name: lucas1_1
       rect:
         serializedVersion: 2
         x: 47
         y: 96
         width: 25
         height: 46
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: idle3
+      name: lucas1_2
       rect:
         serializedVersion: 2
         x: 88
         y: 96
         width: 24
         height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: idle4
+      name: lucas1_3
       rect:
         serializedVersion: 2
         x: 128
         y: 96
         width: 24
         height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run1
+      name: lucas1_4
       rect:
         serializedVersion: 2
         x: 3
@@ -144,7 +139,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run2
+      name: lucas1_5
       rect:
         serializedVersion: 2
         x: 39
@@ -157,7 +152,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run3
+      name: lucas1_6
       rect:
         serializedVersion: 2
         x: 81
@@ -170,7 +165,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run4
+      name: lucas1_7
       rect:
         serializedVersion: 2
         x: 126
@@ -183,7 +178,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run5
+      name: lucas1_8
       rect:
         serializedVersion: 2
         x: 164
@@ -196,7 +191,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run6
+      name: lucas1_9
       rect:
         serializedVersion: 2
         x: 199
@@ -209,7 +204,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run7
+      name: lucas1_10
       rect:
         serializedVersion: 2
         x: 240
@@ -222,7 +217,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: run8
+      name: lucas1_11
       rect:
         serializedVersion: 2
         x: 286
@@ -235,7 +230,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump1
+      name: lucas1_12
       rect:
         serializedVersion: 2
         x: 8
@@ -248,7 +243,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump2
+      name: lucas1_13
       rect:
         serializedVersion: 2
         x: 43
@@ -261,7 +256,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump3
+      name: lucas1_14
       rect:
         serializedVersion: 2
         x: 83
@@ -274,7 +269,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump4
+      name: lucas1_15
       rect:
         serializedVersion: 2
         x: 122
@@ -287,7 +282,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump5
+      name: lucas1_16
       rect:
         serializedVersion: 2
         x: 164
@@ -300,7 +295,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump6
+      name: lucas1_17
       rect:
         serializedVersion: 2
         x: 203
@@ -313,7 +308,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump7
+      name: lucas1_18
       rect:
         serializedVersion: 2
         x: 243
@@ -326,7 +321,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump8
+      name: lucas1_19
       rect:
         serializedVersion: 2
         x: 284
@@ -339,7 +334,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: jump9
+      name: lucas1_20
       rect:
         serializedVersion: 2
         x: 323
